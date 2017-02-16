@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Composite 2",
-    "currentPage": "signin.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -826,7 +826,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/carbon-texture1882-2000x15006.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/carbon-texture1882-2000x15007.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1148,7 +1148,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/carbon-texture1882-2000x15006.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/carbon-texture1882-2000x15007.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
