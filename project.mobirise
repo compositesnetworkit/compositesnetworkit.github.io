@@ -826,7 +826,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/carbon-texture1882-2000x15003.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/carbon-texture1882-2000x15004.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1148,7 +1148,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/carbon-texture1882-2000x15003.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/carbon-texture1882-2000x15004.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
