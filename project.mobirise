@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Composite 2",
-    "currentPage": "index.html",
+    "currentPage": "signin.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -206,7 +206,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/pexels-photo-1-2000x1333.png",
+                "image": "@PROJECT_PATH@/assets/images/marine-2000x1332.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -220,7 +220,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/landscape-aircraft-clouds-storm-2000x1314.png",
+                "image": "@PROJECT_PATH@/assets/images/avia-2000x1314.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -234,7 +234,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/pexels-photo-2-2000x1333.png",
+                "image": "@PROJECT_PATH@/assets/images/build-2000x1333.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -626,7 +626,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/car-race-ferrari-racing-car-pirelli-2000x1333.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/sport-2000x1333.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -826,7 +826,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/carbon-texture1882-2000x15005.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/carbon-texture1882-2000x15006.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1148,7 +1148,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/carbon-texture1882-2000x15005.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/carbon-texture1882-2000x15006.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
